@@ -1,5 +1,8 @@
 # ScrollView ReactNative Training
-# Mã nguồn ScrollView ReactNative Training được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
+
+<br />
+
+Mã nguồn ScrollView ReactNative Training được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 
 # Mục tiêu bài tập
 - Biết cách sử dụng ScrollView để hiển thị nội dung trong React Native
