@@ -1,4 +1,5 @@
 # ScrollView ReactNative Training
+# Mã nguồn ScrollView ReactNative Training được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 
 # Mục tiêu bài tập
 - Biết cách sử dụng ScrollView để hiển thị nội dung trong React Native
@@ -12,4 +13,4 @@
 
 - Khởi tạo state các member từ json hoặc mock cứng dữ liệu
 - Sử dụng thẻ ScrollView bao nội dung
-- Sử dụng hàm map để show ra danh sách member
+- Sử dụng hàm map để show ra danh sách member 
